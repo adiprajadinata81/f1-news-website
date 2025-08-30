@@ -13,7 +13,7 @@ Dibangun menggunakan **HTML** dan **TailwindCSS**.
 
 ---
 
-## struktur proyek
+## 📁 Struktur Proyek
 f1-news-website/
 │── web.html # Halaman utama website
 │── 2232702930.jpg # Mclaren
